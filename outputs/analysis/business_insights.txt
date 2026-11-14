@@ -1,0 +1,64 @@
+E-COMMERCE BUSINESS INSIGHTS
+================================
+Total revenue: 4,312,392.40
+Unique orders: 2,000
+Average order value (AOV): 2,156.20
+Cancelled order rows: 129
+Returned order rows: 73
+
+Top revenue region: East (1,036,484.70)
+Top revenue category: Electronics (1,189,306.80)
+Top profit category: Electronics (217,922.54)
+Top sales product: Smart Watch (437,130.15)
+Most used payment method: Upi
+
+Lowest-profit products (review these):
+           product  revenue  profit
+Ballpoint Pen Pack 11340.85 2071.83
+     Skipping Rope 19543.30 3585.47
+          Hair Oil 23828.00 4403.08
+      Notebook Set 25878.00 4735.83
+         Face Wash 27010.40 4966.91
+           Planner 26783.40 4993.31
+       Moisturizer 37588.45 6962.71
+       Drawing Kit 40891.05 7464.79
+           Shampoo 46526.75 8567.78
+  Resistance Bands 47716.70 8836.57
+
+Monthly revenue:
+year_month   revenue
+   2024-01 131894.20
+   2024-02 155891.90
+   2024-03 109588.10
+   2024-04 124438.20
+   2024-05 104157.00
+   2024-06 172405.60
+   2024-07 108204.70
+   2024-08 136662.90
+   2024-09 126813.75
+   2024-10 149984.70
+   2024-11 110492.15
+   2024-12  88830.05
+   2025-01 108590.25
+   2025-02 121130.20
+   2025-03 137060.80
+   2025-04 109440.10
+   2025-05 117319.50
+   2025-06 134233.95
+   2025-07 123106.95
+   2025-08 124121.15
+   2025-09 105022.70
+   2025-10 115553.05
+   2025-11 124522.65
+   2025-12 134794.55
+   2026-01 120410.45
+   2026-02 132797.20
+   2026-03 149320.90
+   2026-04 140627.40
+   2026-05 125919.40
+   2026-06 101152.15
+   2026-07 148565.20
+   2026-08 104171.35
+   2026-09  93020.20
+   2026-10 136560.00
+   2026-11  85589.05
